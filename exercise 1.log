@@ -1,0 +1,172 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.3)  20 NOV 2021 19:54
+entering extended mode
+**"./exercise 1.tex"
+(exercise 1.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27>
+(C:\Users\AYOMIDE OJIKUTU\AppData\Local\Programs\MiKTeX\tex/latex/base\article.
+cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+
+(C:\Users\AYOMIDE OJIKUTU\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.c
+lo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\AYOMIDE OJIKUTU\AppData\Local\Programs\MiKTeX\tex/latex/graphics\grap
+hicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\AYOMIDE OJIKUTU\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyv
+al.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\AYOMIDE OJIKUTU\AppData\Local\Programs\MiKTeX\tex/latex/graphics\grap
+hics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\AYOMIDE OJIKUTU\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig
+.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\AYOMIDE OJIKUTU\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\
+graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\AYOMIDE OJIKUTU\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\
+pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Users\AYOMIDE OJIKUTU\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.s
+ty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen141
+\ar@mcellbox=\box50
+\extrarowheight=\dimen142
+\NC@list=\toks17
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box51
+)
+(C:\Users\AYOMIDE OJIKUTU\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3b
+ackend-pdftex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count190
+\l__pdf_internal_box=\box52
+) (exercise 1.aux)
+\openout1 = `"exercise 1.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+(C:\Users\AYOMIDE OJIKUTU\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\s
+upp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count191
+\scratchdimen=\dimen143
+\scratchbox=\box53
+\nofMPsegments=\count192
+\nofMParguments=\count193
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count194
+\MPscratchDim=\dimen144
+\MPnumerator=\count195
+\makeMPintoPDFobject=\count196
+\everyMPtoPDFconversion=\toks19
+)
+(C:\Users\AYOMIDE OJIKUTU\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\
+epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\AYOMIDE OJIKUTU\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epst
+opdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 16.
+<smartphone.jpg, id=1, 259.97125pt x 194.7275pt>
+File: smartphone.jpg Graphic file (type jpg)
+<use smartphone.jpg>
+Package pdftex.def Info: smartphone.jpg  used on input line 25.
+(pdftex.def)             Requested size: 68.99895pt x 51.68275pt.
+<tablet.jpg, id=2, 259.97125pt x 194.7275pt>
+File: tablet.jpg Graphic file (type jpg)
+<use tablet.jpg>
+Package pdftex.def Info: tablet.jpg  used on input line 28.
+(pdftex.def)             Requested size: 86.25pt x 64.60196pt.
+<sd card.jpg, id=3, 295.1025pt x 171.64125pt>
+File: sd card.jpg Graphic file (type jpg)
+<use sd card.jpg>
+Package pdftex.def Info: sd card.jpg  used on input line 30.
+(pdftex.def)             Requested size: 68.99895pt x 40.13141pt.
+<github.jpg, id=4, 300.12125pt x 168.63pt>
+File: github.jpg Graphic file (type jpg)
+<use github.jpg>
+Package pdftex.def Info: github.jpg  used on input line 43.
+(pdftex.def)             Requested size: 138.00249pt x 113.8126pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+[]\OT1/cmr/m/n/10 Continous in-te-gra-tion
+ []
+
+
+Overfull \hbox (115.12544pt too wide) in paragraph at lines 39--65
+ [][] 
+ []
+
+[1
+
+{C:/Users/AYOMIDE OJIKUTU/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./sma
+rtphone.jpg> <./tablet.jpg> <./sd card.jpg> <./github.jpg>] (exercise 1.aux) ) 
+Here is how much of TeX's memory you used:
+ 1307 strings out of 478927
+ 20862 string characters out of 2847759
+ 316694 words of memory out of 3000000
+ 19205 multiletter control sequences out of 15000+600000
+ 404370 words of font info for 30 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,14n,66p,209b,358s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 
+<C:\Users\AYOMIDE OJIKUTU\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi6
+00\tcrm1000.pk><C:/Users/AYOMIDE OJIKUTU/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmbx12.pfb><C:/Users/AYOMIDE OJIKUTU/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on "exercise 1.pdf" (1 page, 69479 bytes).
+PDF statistics:
+ 25 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
